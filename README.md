@@ -12,7 +12,7 @@ This repository contains the code and documentation for my machine learning assi
   - `toxiccomments_3-4_steph.ipynb` is the model I edited
   - `toxiccomments_first_full_iteration`: is the primary startercode file for the assignment.
 
-- **`data/`**: This directory contains the dataset used for training and testing.
+- **`data/`**: This directory contains the dataset used for training and testing. It was unfortunately too large to upload so it does not show in this repository.
   - `toxiccomments_train.csv`: The training dataset.
   - `toxiccomments_test.csv`: The test dataset.
 
